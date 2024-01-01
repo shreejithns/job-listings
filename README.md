@@ -1,6 +1,5 @@
 # Job listings with filtering
 
-My solution to an intermediate level [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
 In this project I implemented the component approach with Pug, SCSS and ES modules.<br>
 Built using Parcel, animated with [Anime.js](https://animejs.com).
@@ -9,7 +8,6 @@ Users are able to:
 - filter job listings based on the categories;
 - see the selected categories and the filtered listings after refreshing the page.
 
-[Live Page](https://job-listings.now.sh)
 
 ## Project Setup
 
